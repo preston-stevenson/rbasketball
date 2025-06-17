@@ -1,3 +1,3 @@
 # rbasketball
 
-Ultimately stuff that I would like to include in my RAPM shiny app. 
+Stuff that I would like to eventually include in my RAPM shiny app. 
